@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christopher Yuen</h1>
+<h1 align="center">Hi 👋 I'm Christopher Yuen</h1>
 <h3 align="left">I am a rising Sophomore studying Computer Science (Digital Media Design) at the University of Pennsylvania.</h3>
 
 ## 📊 GitHub Stats
