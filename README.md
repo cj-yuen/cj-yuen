@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">I am a rising Sophomore studying Computer Science (Digital Media Design) at the University of Pennsylvania.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-yuen&show_icons=true&locale=en&layout=compact" alt="cj-yuen" /></p>
 
 <!--
 **cj-yuen/cj-yuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
