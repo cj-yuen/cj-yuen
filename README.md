@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Christopher</h1>
+<h3 align="center">I am a rising Sophomore studying Computer Science (Digital Media Design) at the University of Pennsylvania.</h3>
 
 <!--
 **cj-yuen/cj-yuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
