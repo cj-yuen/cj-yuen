@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="left">I am a rising Sophomore studying Computer Science (Digital Media Design) at the University of Pennsylvania.</h3>
 
-## GitHub Stats 📈
+## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-yuen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cj-yuen" /></p>
 
 <!--
