@@ -2,7 +2,7 @@
 <h3 align="left">I am a rising Sophomore studying Computer Science (Digital Media Design) at the University of Pennsylvania.</h3>
 
 ## GitHub Stats 📈
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-yuen&show_icons=true&locale=en&layout=compact" alt="cj-yuen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-yuen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cj-yuen" /></p>
 
 <!--
 **cj-yuen/cj-yuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
