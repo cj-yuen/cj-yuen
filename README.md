@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Christopher Yuen</h1>
 
 ## 💫 About Me
-<p>I am a Junior studying Computer Science (Digital Media Design) at the University of Pennsylvania.</p>
+<p>I am a Senior studying Computer Science (Digital Media Design) at the University of Pennsylvania.</p>
 
 ## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-yuen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cj-yuen" /></p>
